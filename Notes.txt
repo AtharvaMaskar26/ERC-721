@@ -1,0 +1,26 @@
+Fungible?
+- Asset that can be exchanged with another asset is called as Fungible
+- Eg: I can exchange 5 kg potatoes for 100 Rs note (Their price)
+
+Non Fungible?
+- Things that are same but cannot be exchanged
+Eg: You cannot exchange two cars of different brands
+- Assets where you cannot create a definite value for
+
+ERC721 
+# Learning in Public
+- ERC Standards
+- ERC 20 VS ERC 721
+
+Alchemy
+- Alchemy Supernode is he most widely used blockchain API for Ethereum, Polygon, Arbitrum , Etc. 
+- It provedes all functionality of a node, including JSON-RPC support
+- We can connect to the blockchain without running a node
+
+Hardhat 
+- Hardhat Network is a local Ethereum network designed for development
+- Easily deploy your contracts, run tests and debug solidity code without dealing with live environments
+
+Pinata
+- Pinata is the simplest way to upload and manage files on IPFS
+
